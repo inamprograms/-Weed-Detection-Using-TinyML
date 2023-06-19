@@ -1,2 +1,1 @@
 # Weed-Detection-Using-TinyML
-
